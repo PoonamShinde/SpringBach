@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<company>
+    <record refId="1001">
+        <name>mkyong</name>
+        <age>31</age>
+       
+    </record>
+    <record refId="1002">
+        <name>kkwong</name>
+        <age>30</age>
+        
+    </record>
+    <record refId="1003">
+        <name>joel</name>
+        <age>29</age>
+      
+    </record>
+    <record refId="1004">
+        <name>leeyy</name>
+        <age>29</age>
+      
+    </record>
+</company>
